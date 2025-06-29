@@ -59,7 +59,7 @@ This project explores the state of workplace mental health across countries, wit
 ---
 
 ## 🧠 Authors & Credits 
-Primary Contributors: Poorvi Panjwani & Abhishek Das and team (2025)
+Primary Contributors: Poorvi Panjwani & Abhishek Das (2025)
 
 ---
 
